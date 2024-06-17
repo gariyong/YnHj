@@ -1,0 +1,6 @@
+name: ynhjrpg
+version: 1.0
+main: net.happygari.ynhjrpg.Main
+description: qt
+author: gari
+api-version: '1.20.6'
